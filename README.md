@@ -48,8 +48,5 @@ You can customize the behavior of the extension by modifying the settings. To ac
 
 ## Feedback and Contributions
 
-We welcome your feedback and contributions to improve this extension. If you encounter any issues, have suggestions for improvements, or would like to contribute to the project, please visit the [GitHub repository](https://github.com/your-repo-url) for ClassroomPlugin.
+We welcome your feedback and contributions to improve this extension. If you encounter any issues, have suggestions for improvements, or would like to contribute to the project, please visit the [GitHub repository](https://github.com/BlackCat-klein/ClassroomPlugin) for ClassroomPlugin.
 
-## License
-
-This extension is licensed under the [MIT License](LICENSE).
